@@ -1,0 +1,13 @@
+domain,problem,planner,runtime,makespan
+blocks,p01.pddl,HSP,753,7
+blocks,p01.pddl,SAT,896,7
+blocks,p02.pddl,HSP,774,11
+blocks,p02.pddl,SAT,910,11
+depots,p01.pddl,HSP,920,11
+depots,p01.pddl,SAT,1374,11
+depots,p02.pddl,HSP,1122,16
+depots,p02.pddl,SAT,10003,16
+gripper,p01.pddl,HSP,868,10
+gripper,p01.pddl,SAT,1054,10
+gripper,p02.pddl,HSP,2565,14
+gripper,p02.pddl,SAT,29509,14

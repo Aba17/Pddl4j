@@ -1,0 +1,56 @@
+ # Compiled source #
+###################
+bin
+out
+lib
+build/
+*.class
+
+# Generated files #
+###################
+src/main/java/fr/uga/pddl4j/parser/lexer*
+!src/main/java/fr/uga/pddl4j/parser/lexer/Lexer.jj
+*.val
+
+# Logs and databases #
+######################
+*.log
+
+# Generated documentation #
+###########################
+doc/api
+
+#       Test files        #
+###########################
+#benchmarks
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# IDE files or directories #
+############################
+
+#intelliJ
+.idea
+*.iml
+
+#eclipse
+.project
+.metadata
+*.launch
+
+#gradle
+.gradle/
+
+#New
+
+# Java Heap Dumps
+*.hprof

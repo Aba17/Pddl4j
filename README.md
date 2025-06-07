@@ -101,14 +101,14 @@ python3 ./scripts/results.py
 After running the build and experiment scripts, the following outputs will be available in the `results/` directory:
 
 *   **`results/performance.csv`**: A CSV file containing the raw performance data with the following columns: `domain`, `problem`, `planner`, `runtime`, `makespan`.
-![alt text](image-2.png)
+![alt text](images/perf.png)
 
 *   **`results/comparison_plots.pdf`**: The final deliverable PDF containing all 8 comparison plots, as required by the assignment.
-![alt text](image.png)
+![alt text](images/plots.png)
 
 *   **`results/logs/`**: This directory contains the raw console output from every single planner run, which is useful for detailed debugging.
 
-![alt text](image-1.png)
+![alt text](images/logs.png)
 
 ---
 
