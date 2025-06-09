@@ -21,7 +21,7 @@ FAT_JAR="./build/libs/pddl4j-4.0.0-all.jar"
 SAT_PLANNER_CLASS="fr.uga.pddl4j.examples.sat.classes.Planner"
 HSP_WRAPPER_CLASS="fr.uga.pddl4j.examples.sat.hsp.ASP"
 
-MY_PLANNER="java -cp $FAT_JAR $SAT_PLANNER_CLASS -h -1 -M 50"
+MY_PLANNER="java -cp $FAT_JAR $SAT_PLANNER_CLASS -h -1 -M 30"
 HSP_PLANNER="java -cp $FAT_JAR $HSP_WRAPPER_CLASS"
 
 # --- Main Script ---
