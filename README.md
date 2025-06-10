@@ -9,7 +9,7 @@ The primary goals of this project are:
 
 ---
 
-## Done By
+## Author
 Ababacar Dioukhané
 Research Engineer
 
